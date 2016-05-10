@@ -1,9 +1,11 @@
 h1{
   color:red;
+  text-align:center;
   }
 img{
   width:250px;
 }
 p{
   width:500px;
+  text-align:center;
 }
