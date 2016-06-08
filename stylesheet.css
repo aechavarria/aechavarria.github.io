@@ -21,3 +21,7 @@ body{
   text-align:center;
   margin-left:42em;
 }
+nav ol li{
+  display: inline-block;
+  padding-left: 20px:
+}
