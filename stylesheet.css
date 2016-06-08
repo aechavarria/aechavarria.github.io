@@ -19,7 +19,7 @@ body{
 }
 #fp{
   text-align:center;
-  float: center;
+  float: right;
 }
 .li{
   display: inline-block;
